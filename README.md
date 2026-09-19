@@ -1,6 +1,6 @@
 <div align="center">
 
-# [limitless]
+# limitless
 
 **A Jujutsu Kaisen-inspired fan mod for Minecraft (Forge 1.20.1)**  
 *一款基于《咒术回战》同人创作的 Minecraft 模组（Forge 1.20.1）*
@@ -19,7 +19,7 @@
 ## 📖 English
 
 ### Overview
-Welcome to **[Your Mod Name]**! This mod brings iconic concepts from *Jujutsu Kaisen* into Minecraft 1.20.1 Forge. 
+Welcome to **limitless**! This mod brings iconic concepts from *Jujutsu Kaisen* into Minecraft 1.20.1 Forge. 
 
 > ⚠️ **Disclaimer:** This is a **fan-made project**. The mechanics, balancing, and ability interactions have been adapted and modified for Minecraft gameplay, so **they do not 100% align with the original manga/anime canon**.
 
@@ -31,7 +31,7 @@ Welcome to **[Your Mod Name]**! This mod brings iconic concepts from *Jujutsu Ka
   Manipulate space to keep incoming threats at bay. Bend distance itself to shield yourself from harm and unleash destructive spatial distortions.
 
 * **Shrine (御厨子)**  
-  Master precision cutting attacks. Carve through blocks and enemies alike with slicing techniques inspired by pure malevolence.
+  Master precision cutting attacks. Carve through enemies alike with slicing techniques inspired by pure malevolence.
 
 * **Light and Bloodlust (光与杀意)**  
   *(Original/Fan-made Concept)* A unique, high-octane combat technique balancing blinding radiance with raw, lethal intent.
@@ -62,7 +62,7 @@ This is an unofficial, non-profit fan-made mod. *Jujutsu Kaisen* and all related
 ## 📖 简体中文
 
 ### 模组简介
-欢迎游玩 **[模组中文名 / Your Mod Name]**！本模组基于《咒术回战》（Jujutsu Kaisen）的设定进行同人二次创作，适用于 Minecraft 1.20.1 Forge 平台。
+欢迎游玩 **limitless**！本模组基于《咒术回战》（Jujutsu Kaisen）的设定进行同人二次创作，适用于 Minecraft 1.20.1 Forge 平台。
 
 > ⚠️ **说明与免责：** 本模组为**同人自制衍生作品**。为了兼顾 Minecraft 的玩法节奏与战斗数值平衡，模组内的技能机制、伤害判定与效果呈现**与原作设定并不完全一致**，请以游戏内实际体验为准。
 
@@ -74,7 +74,7 @@ This is an unofficial, non-profit fan-made mod. *Jujutsu Kaisen* and all related
   操控空间的极致防御与破坏。收束距离阻隔外界攻击，释放强大的空间扭曲摧毁敌人。
 
 * **御厨子（Shrine）**  
-  精密的斩击艺术。以凌厉的刀刃撕裂周围的方块与生物，带来极致的收割与压迫感。
+  精密的斩击艺术。以凌厉的刀刃撕裂周围的生物，带来极致的收割与压迫感。
 
 * **光与杀意（Light and Bloodlust）**  
   *(同人原创设计)* 兼具耀眼光芒与纯粹杀意的战斗流派，拥有独特的攻击节奏与高爆发机制。
