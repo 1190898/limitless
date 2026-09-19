@@ -1,6 +1,6 @@
 <div align="center">
 
-# [模组英文名 / Your Mod Name]
+# [limitless]
 
 **A Jujutsu Kaisen-inspired fan mod for Minecraft (Forge 1.20.1)**  
 *一款基于《咒术回战》同人创作的 Minecraft 模组（Forge 1.20.1）*
