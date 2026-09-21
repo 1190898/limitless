@@ -42,7 +42,7 @@ Welcome to **limitless**! This mod brings iconic concepts from *Jujutsu Kaisen* 
 * **Adaptation (适应)**  
   A survival mechanic inspired by the Eight-Handled Sword Divergent Sila Divine General Mahoraga. Adapt to repeated incoming damage types, turning lethal threats into harmless scratches over prolonged combat.
 
-* **Invisible Hand(无形之手) (Addon Mod)** 
+* **Invisible Hand(无形之手) (Addon Mod)**  
   The ability to trade items, abilities, life, etc., and also trade special abilities with mysterious merchants, including special time-based abilities.  
 
 ---
@@ -88,7 +88,7 @@ This is an unofficial, non-profit fan-made mod. *Jujutsu Kaisen* and all related
 * **适应（Adaptation）**  
   灵感来源于“八握剑异戒神将魔虚罗”的防御机制。受到特定类型的伤害后会逐渐产生抗性并完成“适应”，让同一种攻击不再奏效。
 
-* **无形之手（附属模组）** 
+* **无形之手（附属模组）**  
   交易物品、能力、生命等的能力，也能和神秘商人交易特殊能力，包括了特殊了时间系能力
 
 ---
