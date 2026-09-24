@@ -45,7 +45,7 @@ Welcome to **limitless**! This mod brings iconic concepts from *Jujutsu Kaisen* 
 * **Invisible Hand(无形之手) (Addon Mod)**  
   The ability to trade items, abilities, life, etc., and also trade special abilities with mysterious merchants, including special time-based abilities.  
 
-* **Puppet(木偶)**
+* **Puppet(木偶)**  
   Complementing the "Invisible Hand," after unlocking, it allows control of one to three creatures with switchable perspectives.
 ---
 
@@ -93,7 +93,7 @@ This is an unofficial, non-profit fan-made mod. *Jujutsu Kaisen* and all related
 * **无形之手（附属模组）**  
   交易物品、能力、生命等的能力，也能和神秘商人交易特殊能力，包括了特殊了时间系能力
 
-* **木偶**
+* **木偶**  
   与“无形之手”相辅相成，解锁后可操控一到三个生物，可切换视角。
 
 ---
